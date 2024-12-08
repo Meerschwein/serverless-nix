@@ -1,0 +1,3 @@
+[submodule "serverless"]
+	path = serverless
+	url = https://github.com/meerschwein/serverless
